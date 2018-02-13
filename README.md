@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Création de l'application Gossip en mode run chicken run avec la gem Devise
 
-Things you may want to cover:
+* Possible de créer un user
+* poster des messages 
+* repondre aux messages avec des commentaires
 
-* Ruby version
+* pas possible de supprimer les posts et coms des autres
+* login necessaire pour voir les messages
 
-* System dependencies
 
-* Configuration
+## Mot de passe recquis pour créer un compte (dispo sur thp)
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
