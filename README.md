@@ -12,4 +12,5 @@ Création de l'application Gossip en mode run chicken run avec la gem Devise
 
 ## Mot de passe recquis pour créer un compte (dispo sur thp)
 
+https://infinite-bastion-44397.herokuapp.com/
 
