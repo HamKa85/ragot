@@ -16,7 +16,7 @@ Création de l'application Gossip en mode run chicken run avec la gem Devise
 ## Tu peux éditer ton post et le supprimer
 ## Tu peux commenter les posts des autres et le tiens
 
-## Mot de passe recquis pour créer un compte (dispo sur thp)
+## Mot de passe recquis pour créer un compte (GOSSIP_2017)
 
 https://infinite-bastion-44397.herokuapp.com/
 
